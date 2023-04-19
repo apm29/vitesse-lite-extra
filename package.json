@@ -1,10 +1,8 @@
 {
   "private": true,
-  "packageManager": "pnpm@8.2.0",
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
-    "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest"
   },
@@ -19,7 +17,6 @@
     "@vitejs/plugin-vue": "^4.1.0",
     "@vue/test-utils": "^2.3.2",
     "jsdom": "^21.1.1",
-    "pnpm": "^8.2.0",
     "unocss": "^0.51.4",
     "unplugin-auto-import": "^0.15.2",
     "unplugin-vue-components": "^0.24.1",
