@@ -1,11 +1,10 @@
 ## 使用
 
-Clone to local
-If you prefer to do it manually with the cleaner git history
+克隆纯文件（无git历史）到本地
 ```
-npx degit apm29/vitesse-lite-extra my-vitesse-app
-cd my-vitesse-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+npx degit apm29/vitesse-lite-extra my-vitesse-extra-app
+cd my-vitesse-extra-app
+pnpm i # 或者: npm install -g pnpm
 ```
 
 ## 特性
