@@ -1,3 +1,13 @@
+## 使用
+
+Clone to local
+If you prefer to do it manually with the cleaner git history
+```
+npx degit apm29/vitesse-lite-extra my-vitesse-app
+cd my-vitesse-app
+pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```
+
 ## 特性
 
 - ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite 3](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/) - 就是快！
