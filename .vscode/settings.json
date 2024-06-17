@@ -2,7 +2,7 @@
   "cSpell.words": [""],
   "prettier.enable": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": false
+    "source.fixAll.eslint": "never"
   },
   "files.associations": {
     "*.css": "postcss"

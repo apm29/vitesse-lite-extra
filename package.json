@@ -21,8 +21,8 @@
     "unplugin-auto-import": "^0.15.2",
     "unplugin-vue-components": "^0.24.1",
     "unplugin-vue-macros": "^2.0.0",
+    "unplugin-vue-router": "^0.9.1",
     "vite": "^4.2.1",
-    "vite-plugin-pages": "^0.29.0",
     "vitest": "^0.30.1"
   }
 }
